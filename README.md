@@ -32,7 +32,6 @@ O objetivo deste projeto foi de aprender como funciona uma arquitetura de micro 
 
 Neste projeto foram alteradas as versões das dependências para as mais atuais no momento de publicação deste projeto. Algumas códigos de configurações tiveram que ser completamente remodeladas para poder funcionar nas versões atuais.
 
-Projeto original: https://github.com/oswaldoneto/dio-experts
 
 ### BANCO DE DADOS
 
